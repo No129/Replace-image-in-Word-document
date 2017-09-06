@@ -1,0 +1,16 @@
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\MainWindow.g.cs
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\App.g.cs
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main_MarkupCompile.cache
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main_MarkupCompile.lref
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\bin\Debug\Main.exe.config
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\bin\Debug\Main.exe
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\bin\Debug\Main.pdb
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\MainWindow.baml
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main.g.resources
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main.Properties.Resources.resources
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main.exe
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main.pdb
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\_TOHU\Workspace\Magikarp\Replace-image-in-Word-document\Main\obj\Debug\Main_Content.g.cs

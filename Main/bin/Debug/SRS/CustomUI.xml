@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+  <commands>
+    <command idMso="ControlProperties" enabled="false" />
+    <command idMso="ReviewShareWorkbook" enabled="false" />
+    <command idMso="ReviewProtectAndShareWorkbook" enabled="false" />
+  </commands>
+</customUI>
